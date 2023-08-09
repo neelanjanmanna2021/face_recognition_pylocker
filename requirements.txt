@@ -1,0 +1,11 @@
+import sys
+import cv2
+import os
+import face_recognition
+import pickle
+from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QVBoxLayout, QWidget, QInputDialog
+import hashlib
+import shutil
+import easygui
+import pyAesCrypt
+from MCS030897 import *
